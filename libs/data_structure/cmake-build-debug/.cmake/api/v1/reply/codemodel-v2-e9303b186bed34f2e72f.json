@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "data_structures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_structures-Debug-22f9712e1c37efba9bd9.json",
+					"name" : "data_structures",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u041a\u0443\u0440\u0431\u0430\u043d\u043e\u0432/CLionProjects/Laboratory_13/libs/data_structure/cmake-build-debug",
+		"source" : "C:/Users/\u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u041a\u0443\u0440\u0431\u0430\u043d\u043e\u0432/CLionProjects/Laboratory_13/libs/data_structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,2 @@
+C:/Users/Виталий Курбанов/CLionProjects/Laboratory_13/libs/algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Виталий Курбанов/CLionProjects/Laboratory_13/libs/algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
